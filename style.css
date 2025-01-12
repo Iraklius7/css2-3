@@ -1,0 +1,389 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heder {
+    text-align: right;
+}
+
+.heder-card {
+    background: #F7F4FF;
+    padding: 12px 24px;
+    display: inline-block;
+}
+
+
+.nextmove {
+    display: inline-block;
+    padding: 13.489px;
+    vertical-align: middle;
+    
+}
+
+.nextmove-logo {
+    width: 146.683px;
+    height: 21.023px;
+    vertical-align: middle;
+}
+
+.ul-box {
+    display: inline-block;
+    margin: 0px 171px;
+    vertical-align: middle;
+    list-style: none;
+}
+
+.ul li {
+    margin-right: 20px;
+    list-style: none;
+    display: inline-block;
+}
+
+.ul a {
+   
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration-line: none;
+}
+
+#contact {
+    font-weight: 600;
+    color: #8E26C0;
+}
+
+#contact-button {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 8px;
+    vertical-align: middle;
+    border: 1px solid #8E26C0;
+}
+
+#contact-button a {
+    text-decoration: none;
+    color: #8E26C0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    vertical-align: middle;
+}
+
+.article-card {
+    margin-top: 142px;
+}
+
+.article-box {
+    margin: 0 auto;
+    max-width: 1305px;
+}
+
+.article-box > img {
+    vertical-align: middle;
+}
+
+.offer-box {
+    width: 644px;
+    margin-left: 45px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1, h2{
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.article-box .p {
+    margin-top: 16px;
+    color: #535862;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ol-box { 
+    margin-top: 16px;
+    padding-left: 28px;
+    display: inline-block;
+}
+
+.ol-box li {
+    margin-bottom: 12px;
+    color: #000;
+    font-family: "Fira Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.ol-box a {
+    text-decoration: none;
+    color: #000;
+    
+}
+
+.second-card {
+    margin-top: 83px;
+    width: 1250px;
+    height: 706px;
+}
+
+.contact-box {
+    width: 920px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 56px;   
+}
+
+.p-2{
+    margin-top: 18px;
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.form-box {
+    width: 100%;
+    margin-top: 28px;
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+.address-boxes {
+    margin-bottom: 24px;
+}
+
+.address-div {
+    display: inline-block;
+    width: 403px;
+    height: 474px;
+    padding: 20px;
+    border-radius: 16px;
+    background: #FFF;
+    vertical-align: middle;
+}
+
+.icon-radius {
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+    vertical-align: middle;
+}
+
+.address {
+    display: inline-block;
+    width: 291px;
+    vertical-align: middle;
+}
+
+
+.address .p-1 {
+    width: 291px;
+    display: block;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 6px;
+}
+
+.address .p-2 {
+    border: none;
+    color: #6D5F8B;
+    width: 291px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.form-box-2 {
+    display: inline-block;
+    width: 759px;
+    height: 474px;
+    margin-left: 16px;
+    vertical-align: middle;
+}
+
+h3 {
+    color: #1B003D;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 44px; 
+    letter-spacing: 1.28px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+}
+
+
+.form {
+    width: 759px;
+    padding: 8px 16px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+
+.form input {
+    border: none;
+    width: 100%;
+    color: #6D5F8B;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    background: #F7F4FF;
+}
+
+.textarea {
+    height: 146px;
+    padding: 12px 16px;
+    margin-bottom: 24px;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+}
+
+textarea {
+    width: 100%;
+    height: 100%;
+    color: #6D5F8B;
+    background: #F7F4FF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    border: none;
+}
+
+.submit-div{
+    text-align: right;
+}
+
+.submit {
+    width: 140px;
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background: #8E26C0;
+    text-align: center;
+}
+
+.submit input {
+    width: 39px;
+    color: #FFF;
+    background: #8E26C0;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    border: 1px solid #8E26C0;   
+}
+
+.footer-div {
+    background: #53389E;
+    padding: 64px 0px 48px 0px;
+    text-align: center;
+}
+
+.footer-box {
+    border: 1px solid red;
+    display: inline-block;
+    text-align: left; 
+    margin-bottom: 48px;
+}
+
+.footer-ul {
+    display: inline-block;
+    margin-right: 80px ;
+    vertical-align: middle;
+    
+}
+
+.Solution {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.img{
+    display: inline-block;
+    vertical-align: middle;
+    width: 53px;
+    height: 28px;
+    padding-left: 8px;
+}
+
+h4 {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: #E9D7FE;
+}
+
+.footer-ul li, a {   
+    color: #E9D7FE;
+    padding: 12px 8px;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    text-decoration-line: none;
+    list-style: none
+}
+
+.final-div {
+    border: 1px solid red;
+    padding: 32px 0px;
+    margin-top: 64px;
+}
+
+.final-box {
+    border-top: 1px solid #7F56D9;
+    margin: 32px 12px 0px 12px;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.final-box div {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 870px; 
+}
+
